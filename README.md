@@ -21,4 +21,4 @@ I own none of the Drivers, Tools, SSDTs, etc. provided in this repository, pleas
 [Prebuilt SSDTs](https://github.com/dortania/Getting-Started-With-ACPI)
 
 # Notes
-The default language defined in the config is Italian.
+The default language defined in the config is Italian. The macOS version used is macOS 12.6.X Monterey
